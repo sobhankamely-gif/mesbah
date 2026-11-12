@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "مصباح | حضور و غیاب روزانه",
+  "short_name": "مصباح",
+  "description": "سامانه حضور و غیاب روزانه",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f6fc",
+  "theme_color": "#1565c8",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
