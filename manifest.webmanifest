@@ -2,20 +2,32 @@
   "id": "./",
   "name": "مصباح | حضور و غیاب روزانه",
   "short_name": "مصباح",
-  "description": "سامانه حضور و غیاب روزانه",
+  "description": "برنامه حضور و غیاب روزانه مصباح",
   "lang": "fa",
   "dir": "rtl",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f1f6fc",
-  "theme_color": "#1565c8",
+  "background_color": "#f4f2f8",
+  "theme_color": "#24102b",
   "icons": [
     {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
       "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
